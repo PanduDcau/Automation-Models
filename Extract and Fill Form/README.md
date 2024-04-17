@@ -1,11 +1,11 @@
 # [How to Extract and Submit Web Forms from a URL using Python](https://www.thepythoncode.com/article/extracting-and-submitting-web-page-forms-in-python)
-To run this:
+First follow these processors:
 - `pip3 install -r requirements.txt`
 - To extract forms, use `form_extractor.py`:
     ```
     python form_extractor.py https://wikipedia.org
     ```
-- To extract and submit forms, use `form_submitter.py`:
+- To extract and submit forms, use `form_submitter.py` file:
     ```
     python form_submitter.py https://wikipedia.org
     ```
