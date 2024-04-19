@@ -1,4 +1,4 @@
-# [How to Extract All Website Links in Python](https://www.thepythoncode.com/article/extract-all-website-links-python)
+# [Extract Website Links Using Python](https://www.thepythoncode.com/article/extract-all-website-links-python)
 Creating the Environment :
 - `pip3 install -r requirements.txt`
 -
