@@ -1,5 +1,5 @@
 # [How to Extract YouTube Comments in Python](https://www.thepythoncode.com/article/extract-youtube-comments-in-python)
-To run this:
+To run this Application:
 - `pip3 install -r requirements.txt`
 - ```
     python youtube_comment_extractor.py --help
