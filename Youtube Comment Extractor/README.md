@@ -2,13 +2,13 @@
 To run this Application:
 - `pip3 install -r requirements.txt`
 - ```
-    python youtube_comment_extractor.py --help
+    python Youtube_Commenter.py --help
     ```
     **Output:**
     ```
     usage: youtube_comment_extractor.py [-h] [-l LIMIT] [-o OUTPUT] url
 
-    Simple YouTube Comment extractor
+**Simple YouTube Comment extractor**
 
     positional arguments:
     url                   The YouTube video full URL
