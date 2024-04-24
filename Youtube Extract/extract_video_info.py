@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup as bs
 import re
 import json
 
-# init session
+# init session work
 session = HTMLSession()
 
 
