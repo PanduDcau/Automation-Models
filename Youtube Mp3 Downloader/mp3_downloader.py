@@ -1,10 +1,10 @@
+#Working dictionary
 from tkinter import *
 from tkinter import ttk
 from pytube import YouTube
 from tkinter.messagebox import showinfo, showerror, askokcancel
 import threading
 import os
-
 
 # the function for closing the application
 def close_window():
@@ -13,7 +13,6 @@ def close_window():
         # this distroys the window
         window.destroy()
         
-
 # the function to download the mp3 audio
 def download_audio():
     # the try statement to excute the download the video code
@@ -86,7 +85,6 @@ def downloadThread():
     t1 = threading.Thread(target=download_audio)
     t1.start()   
         
-
 # creates the window using Tk() fucntion
 window = Tk()
 
