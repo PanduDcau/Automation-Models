@@ -1,5 +1,6 @@
 # [Fake Access Point Generator](https://www.thepythoncode.com/article/create-fake-access-points-scapy)
-For Running The Script:
+
+For Working with and Running The Script:
 - Linux Machine.
 - USB WLAN Stick.
 - aircrack-ng.
