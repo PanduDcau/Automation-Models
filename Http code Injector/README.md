@@ -1,5 +1,5 @@
 # [How to Inject Code into HTTP Responses in the Network in Python](https://www.thepythoncode.com/article/injecting-code-to-html-in-a-network-scapy-python)
-Run this Code:
+Run this Code Segment:
 - `pip3 install -r requirements.txt`
 - Make sure you enabled IP forwarding, if you're using [this Python script](https://www.thepythoncode.com/code/building-arp-spoofer-using-scapy), then it'll automatically enable it.
 - Start ARP Spoofing against the target using any tool such as [this Python script](https://www.thepythoncode.com/code/building-arp-spoofer-using-scapy) or arpspoof tool on Kali Linux.
