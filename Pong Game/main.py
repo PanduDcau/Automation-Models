@@ -2,6 +2,7 @@ import pygame, sys
 from settings import WIDTH, HEIGHT
 from table import Table
 
+# Intializing pygame library
 pygame.init()
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
