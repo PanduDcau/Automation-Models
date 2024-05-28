@@ -4,6 +4,8 @@ from player import Player
 from ball import Ball
 from settings import WIDTH, HEIGHT, player_width, player_height
 
+#Will provide the basic application Work
+
 class Table:
 	def __init__(self, screen):
 		self.screen = screen
