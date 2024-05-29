@@ -2,7 +2,7 @@ import pygame, sys
 import random
 from settings import WIDTH, HEIGHT
 
-## Initializing New Project Work
+## Initializing Project Work
 pygame.init()
 
 class Ball:
