@@ -1,4 +1,5 @@
 requests
+numpy
 requests_html
 bs4
 tqdm
