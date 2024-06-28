@@ -2,12 +2,12 @@
 A complete Python project for a web application 
 called ‘Book Owl’ that converts PDF files to audiobooks
 
-1. *Flask Web Application*:
+1. **Flask Web Application**:
     - A single-page web application with an upload field where users can upload a PDF file.
     - The application should convert the PDF to an MP3 audiobook using AI voice.
 
 
-2. *PDF to Audio Conversion*:
+2. **PDF to Audio Conversion**:
     - Use PyPDF2 to read the PDF file.
     - Use gTTS (Google Text-to-Speech) to convert the text to speech.
     - Use pydub to handle audio file manipulation.
