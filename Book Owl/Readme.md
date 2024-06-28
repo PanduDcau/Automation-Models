@@ -13,13 +13,13 @@ called ‘Book Owl’ that converts PDF files to audiobooks
     - Use pydub to handle audio file manipulation.
 
 
-3. *Simple UI Design*:
+3. **Simple UI Design**:
     - Include a header with the word ‘Book Owl’ as the logo. 
     - The home page should have the logo centered in the header.
     - Below the header, include a stylish dropzone for file uploads and a modern ‘Convert to Audio’ button.
     - Include a placeholder footer with the logo and standard SaaS links such as About, Products, Pricing, Terms, etc.
 
 
-4. *Project Structure*:
+4. **Project Structure**:
     - Organize the project with appropriate directories for templates and static files.
     - Provide a requirements.txt file listing all dependencies.
