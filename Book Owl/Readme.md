@@ -17,7 +17,7 @@ called ‘Book Owl’ that converts PDF files to audiobooks
     - Include a header with the word ‘Book Owl’ as the logo. 
     - The home page should have the logo centered in the header.
     - Below the header, include a stylish dropzone for file uploads and a modern ‘Convert to Audio’ button.
-    - Include a placeholder footer with the logo and standard SaaS links such as About, Products, Pricing, Terms, etc.
+    - Include a placeholder footer with the logo and standard SaaS links such as About, Products, Terms, etc.
 
 
 4. **Project Structure**:
