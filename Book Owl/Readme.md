@@ -2,7 +2,7 @@
 A complete Python project for a web application 
 called ‘Book Owl’ that converts PDF files to audiobooks
 
-1. **Flask Web Application**:
+1. **Flask Web Application Component**:
     - A single-page web application with an upload field where users can upload a PDF file.
     - The application should able to convert the PDF to an MP3 audiobook using AI voice.
 
